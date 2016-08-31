@@ -1,0 +1,1 @@
+set VS90COMNTOOLS=C:\Users\kpoleary\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\bin
